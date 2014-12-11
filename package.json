@@ -1,0 +1,18 @@
+{
+	"name": "bp",
+	"version": "0.0.1",
+	"description": "Boilerplate",
+	"main": "index.js",
+	"author": {
+		"name": "Augusto Rey",
+		"email": "augusto@augustorey.pro",
+		"url": "http://augustorey.pro"
+	},
+	"keywords": [],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/augustorey/bp.git"
+	},
+	"dependencies": {},
+	"license": "MIT"
+}
