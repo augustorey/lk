@@ -1,5 +1,5 @@
 {
-	"name": "bp",
+	"name": "lk",
 	"version": "0.0.1",
 	"description": "Boilerplate",
 	"main": "index.js",
@@ -11,7 +11,7 @@
 	"keywords": [],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/augustorey/bp.git"
+		"url": "https://github.com/augustorey/lk.git"
 	},
 	"dependencies": {},
 	"license": "MIT"
